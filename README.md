@@ -1,28 +1,21 @@
-# This is a large heading
+# Pitchayut
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Chonburi,in the Kingdom of Thailand
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my game are:
 
-Here is `some code` in the middle of a sentence.
+- *Monster Hunter World*
+- *NBA 2k20*
+- *Persona 5*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I love these food.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Pad Thai
+2. Som Tam
+3. Noodle soup
